@@ -1,4 +1,4 @@
-ris Flower Classification using Support Vector Machine (SVM)
+Iris Flower Classification using Support Vector Machine (SVM)
 This project demonstrates a simple implementation of a Support Vector Machine (SVM) to classify Iris flowers into two species: Setosa and Versicolor.
 
 Dataset
